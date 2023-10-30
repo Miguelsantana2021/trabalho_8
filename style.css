@@ -78,12 +78,12 @@ main{
     text-decoration: underline;
 }
 .login button{
-    margin-top: 2.2 rem;
-    padding-block: 1.6 rem;
+    margin-top: 1 rem;
+    padding-block: 1rem;
     width: 100%;
     background:var(--purple);
     border: none;
-    border-radius: 0.25rem;
+    border-radius: 0.4rem;
 
     font-size: 1.6rem;
     font-weight: 700;
